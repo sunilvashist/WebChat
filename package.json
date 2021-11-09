@@ -22,10 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i-aryan/quickmeet.git"
+    "url": "https://github.com/sunilvashist/WebChat.git"
   },
   "bugs": {
-    "url": "https://github.com/i-aryan/quickmeet/issues"
+    "url": "https://github.com/sunilvashist/WebChat/issues"
   },
-  "homepage": "https://github.com/i-aryan/quickmeet#readme"
+  "homepage": "https://github.com/sunilvashist/WebChat#readme",
+    "engines": {
+    "node": "14.6.1"
+  },
 }
